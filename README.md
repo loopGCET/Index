@@ -1,3 +1,3 @@
 # Index for all the repositories in loopGCET:
 
-*[Competitive Coding Related Resouces](https://github.com/loopGCET/CompetitiveCoding)
+* [Competitive Coding Related Resouces](https://github.com/loopGCET/CompetitiveCoding)
